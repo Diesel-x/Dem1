@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo ECS", "Demo ECS\Demo ECS.csproj", "{8CEDB599-E63F-41F4-BB5F-96F3EE03C70E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demka", "..\demka\demka.csproj", "{EB53873E-6249-4A58-86C1-D22A028B2DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CEDB599-E63F-41F4-BB5F-96F3EE03C70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEDB599-E63F-41F4-BB5F-96F3EE03C70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEDB599-E63F-41F4-BB5F-96F3EE03C70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEDB599-E63F-41F4-BB5F-96F3EE03C70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB53873E-6249-4A58-86C1-D22A028B2DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB53873E-6249-4A58-86C1-D22A028B2DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB53873E-6249-4A58-86C1-D22A028B2DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB53873E-6249-4A58-86C1-D22A028B2DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF10E0D-91FD-4025-8E3C-9150E9688E4F}
+	EndGlobalSection
+EndGlobal
